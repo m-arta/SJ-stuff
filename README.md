@@ -1,2 +1,4 @@
 # SJ-stuff
-Things related to ski jumping
+Things related to ski jumping.
+
+Using: Python 3.
